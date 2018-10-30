@@ -1,7 +1,7 @@
 # hello-
 type GeoPoint {
-     longitude:'string!'
-     latitude: 'string!'
+     longitude:string!
+     latitude: string!
    }
   type Query {
     location: GeoPoint
